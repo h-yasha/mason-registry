@@ -1,7 +1,7 @@
 ---
 name: sql-formatter-bun
-description: A whitespace formatter for different query languages. bun. bun.
-homepage: https://sql-formatter-org.github.io/sql-formatter/
+description: A whitespace formatter for different query languages. bun. bun. bun.
+homepage: https://sql-formatter-org.github.io/sql-formatter
 licenses:
   - MIT
 languages:
