@@ -16,4 +16,4 @@ source:
       bun install --production
 
 bin:
-  sql-formatter: bin:bin/sql-formatter-cli.ts
+  sql-formatter: bin/sql-formatter-cli.ts
