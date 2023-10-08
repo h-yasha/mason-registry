@@ -10,7 +10,7 @@ categories:
   - Formatter
 
 source:
-  id: pkg:github/h-yasha/sql-formatter-bun@1b73b59184e29d7e374423581f91bfe2a2a23735
+  id: pkg:github/h-yasha/sql-formatter-bun@master
   build:
     run: |
       bun install --production
